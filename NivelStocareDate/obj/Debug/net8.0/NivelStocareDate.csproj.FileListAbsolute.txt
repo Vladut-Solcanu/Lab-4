@@ -1,0 +1,15 @@
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.deps.json
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\bin\Debug\net8.0\LibrarieModele.dll
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\bin\Debug\net8.0\LibrarieModele.pdb
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.AssemblyInfo.cs
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelSto.ECC26E05.Up2Date
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\refint\NivelStocareDate.dll
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Student\Downloads\AplicatieDemoPIU_2026-main\AplicatieDemoPIU_2026-main\NivelStocareDate\obj\Debug\net8.0\ref\NivelStocareDate.dll
